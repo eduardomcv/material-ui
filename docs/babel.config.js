@@ -27,6 +27,7 @@ const alias = {
   '@mui/private-theming': '../packages/mui-private-theming/src',
   '@mui/utils': '../packages/mui-utils/src',
   '@mui/base': '../packages/mui-base/src',
+  '@mui/core': '../packages/mui-base/src', // TODO Remove after @mui/x-data-grid-generator v5.0.2 release
   '@mui/material-next': '../packages/mui-material-next/src',
   '@mui/joy': '../packages/mui-joy/src',
   docs: './',
